@@ -4,10 +4,11 @@ Instructions for AI coding agents working on this project.
 
 ## Before changing code
 
-1. Read `README.md`.
-2. Read `FESTIVAL_MANAGER_DESIGN.md`.
-3. Read `TODO.md`.
-4. Inspect the existing code.
+1. Read `.pi/skills/festivalmanager-prototype/SKILL.md` first. It contains the current project memory, deployment workflow, URLs, and scenario direction.
+2. Read `README.md`.
+3. Read `FESTIVAL_MANAGER_DESIGN.md`.
+4. Read `TODO.md`.
+5. Inspect the existing code.
 
 The repository is authoritative. Do not recreate the Festival Manager from memory or chat history.
 
